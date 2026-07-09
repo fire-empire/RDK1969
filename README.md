@@ -81,6 +81,8 @@ Three-tier collaborative architecture:
 - **Temperature Monitoring**: Dual-channel differential reliably detects blanket removal; threshold alerts respond accurately.
 - **SpO₂ / Heart Rate**: 200Hz sampling with 0.7–4Hz bandpass filtering; automatic anomaly tagging; vital signs dimension incorporated into scoring.
 - **Report Generation**: One-click generation of structured reports covering composite score, motion analysis, vital signs, temperature comfort assessment, and health recommendations.
+- <img width="634" height="849" alt="image" src="https://github.com/user-attachments/assets/ce67d1e7-659d-4108-ab1e-f025e36fa8ec" />
+
 
 ---
 
